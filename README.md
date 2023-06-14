@@ -1,6 +1,6 @@
 
 <img style="width:100%;height:300px;display: block;margin-left:auto;margin-right:auto;" src="https://avatars.githubusercontent.com/u/136554321?s=400&u=07f78e2f6f88a21ec33c98483ef2025237a7bd2b&v=4">
-<h1 align="center"> We are 99Digits</h1>
+<strong><h1 style="font-family: fantasy;font-weight:bold" align="center"> We are 99Digits</h1></strong>
 <h3 align="center">99Digits has built its reputation upon customer satisfaction, collaboration, innovation, value for money and reliable, safe delivery of its products and services. This has led to repeat business and the creation of long lasting trusting relationships with our clients. 99Digits is a board-managed professional company, committed to creating enduring value for the nation and the shareholder. It has a rich organisational culture rooted in its core values of respect for people and belief in empowerment. Its philosophy of all-round value creation is backed by strong corporate governance policies and systems</h3>
 
 <img style="width:100%;height:300px;display: block;margin-left:auto;margin-right:auto;" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"> 
@@ -9,11 +9,11 @@
 
 - 🔭We are currently working on [WebApplications,MobileApplications,DigitalMarketing](https://99digits.com/)
 
-- 💬 Ask me about **Latest technologies,Web development,Mobiledevelopement**
+- 💬 Ask  about **Latest technologies,Web development,Mobiledevelopement**
 
 - 📫 How to reach **https://99digits.com/**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with :</h3>
 <p align="left">
 <a href="https://twitter.com/99_99digits" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="99_99digits" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/company/99-digits/?originalsubdomain=in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/company/99-digits/?originalsubdomain=in" height="30" width="40" /></a>
