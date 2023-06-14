@@ -1,3 +1,5 @@
+
+<img style="width:50%;height:200px;margin-left:40%;" src="https://avatars.githubusercontent.com/u/136554321?s=400&u=07f78e2f6f88a21ec33c98483ef2025237a7bd2b&v=4">
 <h1 align="center"> We are 99Digits</h1>
 <h3 align="center">99Digits has built its reputation upon customer satisfaction, collaboration, innovation, value for money and reliable, safe delivery of its products and services. This has led to repeat business and the creation of long lasting trusting relationships with our clients. 99Digits is a board-managed professional company, committed to creating enduring value for the nation and the shareholder. It has a rich organisational culture rooted in its core values of respect for people and belief in empowerment. Its philosophy of all-round value creation is backed by strong corporate governance policies and systems</h3>
 
