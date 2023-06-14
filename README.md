@@ -1,6 +1,6 @@
 
 <img style="width:100%;height:300px;display: block;margin-left:auto;margin-right:auto;" src="https://avatars.githubusercontent.com/u/136554321?s=400&u=07f78e2f6f88a21ec33c98483ef2025237a7bd2b&v=4">
-<strong><h1 style="font-family: fantasy;font-weight:bold" align="center"> We are 99Digits</h1></strong>
+<b><h1  align="center"  style="color:blue;font-family: fantasy;font-weight:bold;"> We are 99Digits</h1></b>
 <h3 align="center">99Digits has built its reputation upon customer satisfaction, collaboration, innovation, value for money and reliable, safe delivery of its products and services. This has led to repeat business and the creation of long lasting trusting relationships with our clients. 99Digits is a board-managed professional company, committed to creating enduring value for the nation and the shareholder. It has a rich organisational culture rooted in its core values of respect for people and belief in empowerment. Its philosophy of all-round value creation is backed by strong corporate governance policies and systems</h3>
 
 <img style="width:100%;height:300px;display: block;margin-left:auto;margin-right:auto;" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"> 
@@ -12,6 +12,9 @@
 - 💬 Ask  about **Latest technologies,Web development,Mobiledevelopement**
 
 - 📫 How to reach **https://99digits.com/**
+  <h2 aligin="center">Join With us We makes your Grow Faster</h2>
+  <img style="width:100%;height:300px;display: block;margin-left:auto;margin-right:auto;" src="https://media.tenor.com/TqoopCQE9S8AAAAd/marketing.gif">
+  
 
 <h3 align="left">Connect with :</h3>
 <p align="left">
