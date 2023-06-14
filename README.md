@@ -3,9 +3,9 @@
 <h1 align="center"> We are 99Digits</h1>
 <h3 align="center">99Digits has built its reputation upon customer satisfaction, collaboration, innovation, value for money and reliable, safe delivery of its products and services. This has led to repeat business and the creation of long lasting trusting relationships with our clients. 99Digits is a board-managed professional company, committed to creating enduring value for the nation and the shareholder. It has a rich organisational culture rooted in its core values of respect for people and belief in empowerment. Its philosophy of all-round value creation is backed by strong corporate governance policies and systems</h3>
 
-<img style="width:100%;height:300px;display: block;margin-left:auto;margin-right:auto;"> 
+<img style="width:100%;height:300px;display: block;margin-left:auto;margin-right:auto;" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"> 
 
-<p align="left"> <img src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif" alt="99digits" /> </p>
+
 
 - 🔭We are currently working on [WebApplications,MobileApplications,DigitalMarketing](https://99digits.com/)
 
